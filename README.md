@@ -1,10 +1,6 @@
 # DeepSeek Tag Generator
 
 <p align="center">
-  <img src="assets/logo.png" alt="DeepSeek Tag Generator Logo" width="200"/>
-</p>
-
-<p align="center">
   <a href="#english">English</a> | <a href="#chinese">中文</a>
 </p>
 
